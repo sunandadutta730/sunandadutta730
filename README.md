@@ -1,17 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sunanda Dutta</h1>
+<h3 align="center">CST Engineer | IoT & Robotics Developer | Full-Stack Enthusiast</h3>
 
-<!--
-**sunandadutta730/sunandadutta730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🔹 Passionate about building real-world systems  
+🔹 Love combining software + hardware + cloud  
+🔹 Focused on scalable backend, and IoT solutions  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-...
+## 🌟 About Me
+- 🎓 CST Engineer (Junior Engineer)  
+- 💼 Interested in Software Engineering, IoT, Cloud, ML  
+- 🚀 Building projects for Germany job applications  
+- ⚡ Skilled in Arduino, ESP8266/ESP32, Web Dev, Python, C, Cloud  
+- 📫 Reach me at **sunandadutta730@gmail.com**
+
+---
+
+## 🧠 Tech Stack
+
+### **Programming**
+`C` `C++` `Java` `JavaScript`
+
+### **Web & Backend**
+`HTML` `CSS` `laravel`
+
+### **IoT & Embedded**
+`Arduino` `ESP8266` `ESP32` `Sensors` `Relays`  
+`MQTT` `Firebase` `Blynk` `ESP-IDF`
+
+---
+
+## 📂 Highlight Projects  
+> Recruiters from Germany look at **quality + clarity**.  
+> Below are examples you can replace with your real projects.
+
+---
+
+### 🏗️ **1. MAID (Micro Agmented Identification) (IoT + Cloud + Web Dashboard)**  
+**Architecture Diagram**  
