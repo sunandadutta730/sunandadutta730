@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunanda Dutta</h1>
-<h3 align="center">CST Engineer | IoT & Robotics Developer | Full-Stack Enthusiast</h3>
+<h3 align="center">CSE Student | IoT & Robotics Developer | Full-Stack Enthusiast</h3>
 
 <p align="center">
 🔹 Passionate about building real-world systems  
