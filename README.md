@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 CST Engineer (Junior Engineer)  
+- 🎓 CSE Student 
 - 💼 Interested in Software Engineering, IoT, Cloud, ML  
 - 🚀 Building projects for Germany job applications  
 - ⚡ Skilled in Arduino, ESP8266/ESP32, Web Dev, Python, C, Cloud  
@@ -24,7 +24,7 @@
 `C` `C++` `Java` `JavaScript`
 
 ### **Web & Backend**
-`HTML` `CSS` `laravel`
+`HTML` `CSS` `PHP` `Wordpress` `Woocommerce` 
 
 ### **IoT & Embedded**
 `Arduino` `ESP8266` `ESP32` `Sensors` `Relays`  
