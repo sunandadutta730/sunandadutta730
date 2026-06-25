@@ -80,26 +80,6 @@
 
 ---
 
-### 🧪 **3. Face Recognition Attendance System**  
-**Architecture Diagram**
-
-
-
-
-**Features**
-- Live face recognition  
-- Auto-mark attendance  
-- Student database  
-- PDF export option  
-
-**Tech Stack**
-`Python` `OpenCV` `Flask` `SQLite`
-
-**Demo Video**
-👉 *(Add link)*
-
----
-
 ## 🚀 What I'm Working On
 - Advanced IoT automation projects  
 - ML-powered smart security system  
