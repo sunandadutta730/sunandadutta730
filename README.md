@@ -1,43 +1,92 @@
-<h1 align="center">Hi 👋, I'm Sunanda Dutta</h1>
-<h3 align="center">CSE Student | IoT & Robotics Developer | Full-Stack Enthusiast</h3>
+# Hi 👋 I'm Sunanda Dutta
 
-<p align="center">
-🔹 Passionate about building real-world systems  
-🔹 Love combining software + hardware + cloud  
-🔹 Focused on scalable backend, and IoT solutions  
-</p>
+### Computer Science Engineering Student | Robotics & IoT Engineer | Cloud Enthusiast
 
----
+🚀 Building real-world hardware + software solutions
+🤖 Robotics • IoT • Embedded Systems • Cloud Computing
+🌱 Currently Learning:
+C++, DSA, Cloud, Machine Learning
 
-## 🌟 About Me
-- 🎓 CSE Student 
-- 💼 Interested in Software Engineering, IoT, Cloud, ML  
-- 🚀 Building projects for Germany job applications  
-- ⚡ Skilled in Arduino, ESP8266/ESP32, Web Dev, Python, C, Cloud  
-- 📫 Reach me at **sunandadutta730@gmail.com**
+🇩🇪 Building projects for international software engineering opportunities
 
 ---
 
+## 🚀 About Me
+
+I am a Computer Science Engineering student passionate about building intelligent systems that combine software, electronics, and cloud technologies.
+
+My interests include
+
+- Robotics
+- Internet of Things
+- Cloud Computing
+- Backend Development
+- Machine Learning
+
+I enjoy transforming ideas into real-world products using Arduino, ESP32, Python, C++, and modern web technologies.
+
+Currently preparing for Software Engineering internships while building production-quality projects.
+
+---
+## 🎯 Current Focus
+
+✅ Mastering C++
+
+✅ Data Structures & Algorithms
+
+✅ Cloud Computing
+
+✅ Machine Learning
+
+✅ Building Portfolio Projects
+
+✅ Open Source Contributions
+
+---
 ## 🧠 Tech Stack
 
 ### **Programming**
-`C` `C++` `Java` `JavaScript`
+`C` `C++` `Java` `JavaScript` `Arduino`
 
 ### **Web & Backend**
-`HTML` `CSS` `PHP` `Wordpress` `Woocommerce` 
+`HTML` `CSS` `PHP` `Wordpress` `Woocommerce` `Shopify`
 
 ### **IoT & Embedded**
 `Arduino` `ESP8266` `ESP32` `Sensors` `Relays`  
 `MQTT` `Firebase` `Blynk` `ESP-IDF`
 
 ---
+## ⭐ Featured Projects
 
-## 📂 Highlight Projects  
-> Recruiters from Germany look at **quality + clarity**.  
-> Below are examples you can replace with your real projects.
+🤖 CNC Plotter Machine
 
----
+Arduino-based CNC drawing machine using GRBL.
 
+🔗 Repository
+
+--------------------------------
+
+🔐 RFID Smart Locker
+
+Secure RFID locking system with LCD display.
+
+--------------------------------
+
+💡 Smart Home Automation
+
+IoT-based home automation using ESP8266.
+
+--------------------------------
+
+🚗 Smart Parking System
+
+Real-time parking monitoring solution.
+
+--------------------------------
+
+🌾 Smart Farmer Utility Cap
+
+Solar-powered smart cap for farmers.
 ### 🏗️ **1. MAID (Micro Agmented Identification) (IoT + Cloud + Web Dashboard)**  
 **Architecture Diagram**  
 
