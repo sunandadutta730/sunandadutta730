@@ -87,54 +87,6 @@ Real-time parking monitoring solution.
 🌾 Smart Farmer Utility Cap
 
 Solar-powered smart cap for farmers.
-### 🏗️ **1. MAID (Micro Agmented Identification) (IoT + Cloud + Web Dashboard)**  
-**Architecture Diagram**  
-
-
-
-
-**Features**
-- Real-time parking slots update  
-- Cloud dashboard (web UI)  
-- ESP8266 communication with backend  
-- Mobile notification support  
-
-**Tech Stack**
-`ESP8266` `Arduino` `Firebase` `HTML` `CSS` `JavaScript`
-
-**Demo Video**  
-👉 *(Add your YouTube link here)*
-
-**Repository**  
-👉 *(Add repo link)*
-
----
-
-### 🤖 **2. CNC Drawing Machine / Pen Plotter**  
-**Architecture Diagram**
-
-
-
-**Features**
-- Converts SVG to G-code  
-- Servo-controlled pen lift  
-- Smooth curve tracing  
-- Customizable speed  
-
-**Tech Stack**
-`Python` `Arduino` `Stepper Motors` `Servo Motors`
-
-**Demo Video**  
-👉 *(Add link)*
-
----
-
-## 🚀 What I'm Working On
-- Advanced IoT automation projects  
-- ML-powered smart security system  
-- Backend systems for scalable apps  
-- Preparing for Germany (EU) job applications  
-
 ---
 
 ## 📊 GitHub Stats
