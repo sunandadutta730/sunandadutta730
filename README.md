@@ -87,6 +87,7 @@ Real-time parking monitoring solution.
 🌾 Smart Farmer Utility Cap
 
 Solar-powered smart cap for farmers.
+
 ---
 
 ## 📊 GitHub Stats
@@ -98,10 +99,11 @@ Solar-powered smart cap for farmers.
 ---
 
 ## 🔗 Connect With Me
-- 🌐 LinkedIn: *(add link)*  
+- 🌐 LinkedIn: *https://www.linkedin.com/in/sunanda-dutta-a7b2b6322/*  
 - ✉️ Email: **sunandadutta730@gmail.com**  
-- 🧑‍💻 Portfolio website: *(optional)*
 
 ---
 
-### ⭐ If you like my work, feel free to star my repositories!
+### Thanks for visiting!
+
+⭐ If you like my work, consider starring my repositories.
